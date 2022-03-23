@@ -17,7 +17,7 @@
     true = 1
     false = 0
 
-    $names = array("Daniel","Dennis","Michael");
+    $names = array("Laila","Bob","Carl", "Jeff", "Billy");
     echo $names['1'];
 
 
